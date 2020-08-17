@@ -9,7 +9,7 @@ In this week's challenge, we were tasked with creating an interactive webpage th
 
 
 ### Website Screen Shot
-![Website Screen Shot](Screenshot.png)
+![Website Screen Shot](example2.png)
 
 ### Filtered Data Example
 ![Filtered Data Example](example.png)
